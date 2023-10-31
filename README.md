@@ -3,7 +3,7 @@
 - :computer: Desenvolvedora de Software Back-end
 - :open_book: Estudante na Cubos Academy
 - :mortar_board: Formada em nutrição - UFAL
-- :sparkles: Fazendo transição de carreira para área tech. Tenho formação em Técnico em química e sou nutricionista. Além de estudar assiduamente agricultura, por hobby, já que moro no campo e cultivo para autossuficiência.
+- :sparkles: Fazendo transição de carreira para área tech. Tenho formação em Técnico em Química e sou nutricionista. Além de estudar assiduamente agricultura, por hobby, já que moro no campo e cultivo para autossuficiência.
 
 ### Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/val%C3%A9ria-ferreira-mendon%C3%A7a/)
